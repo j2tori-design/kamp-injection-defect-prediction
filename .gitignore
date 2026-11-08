@@ -1,0 +1,20 @@
+# 대회 제공 데이터·가공 데이터 (재배포 금지)
+데이터셋/
+사출성형_모델/data/
+*.csv
+*.zip
+*.joblib
+*.pkl
+*.txt
+!requirements*.txt
+
+# 대회 제공 참고자료
+참고자료/
+
+# 중복본
+보고서/결과보고서_초안.*
+보고서/사출성형 품질불량 예측.*
+*.lnk
+
+__pycache__/
+.ipynb_checkpoints/
